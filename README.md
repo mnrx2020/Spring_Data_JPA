@@ -85,6 +85,3 @@ You can use Postman or any other API testing tool to interact with the REST endp
 4. Push to the branch.
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/mnrx2020/Spring_Data_JPA/blob/main/LICENSE) file for details.
