@@ -87,4 +87,4 @@ You can use Postman or any other API testing tool to interact with the REST endp
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/mnrx2020/Spring_Data_JPA) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/mnrx2020/Spring_Data_JPA/blob/main/LICENSE) file for details.
